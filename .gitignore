@@ -1,0 +1,31 @@
+# .NET build output
+bin/
+obj/
+
+# User-specific IDE files
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and local diagnostics
+*.log
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Test and coverage output
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
